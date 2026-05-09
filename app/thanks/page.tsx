@@ -38,7 +38,7 @@ export default function ThanksPage() {
           </h1>
 
           <p className="mx-auto mt-6 max-w-xl text-base text-inkLight sm:mt-8 sm:text-lg">
-            A confirmation email is on its way. Click the link inside and you&rsquo;re set &mdash; the next issue lands in your inbox first thing Tuesday.
+            A welcome email is on its way to introduce us. The next issue lands in your inbox first thing Tuesday morning.
           </p>
 
           <p className="mx-auto mt-10 max-w-xl text-sm text-ink/60 sm:text-base">
