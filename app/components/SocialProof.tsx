@@ -26,7 +26,7 @@ export default function SocialProof() {
             {[...companies, ...companies].map((company, i) => (
               <li
                 key={`${company}-${i}`}
-                className="flex items-center whitespace-nowrap text-sm text-cream/85 sm:text-base"
+                className="flex items-center whitespace-nowrap text-lg font-medium text-cream/85 sm:text-2xl"
                 aria-hidden={i >= companies.length ? 'true' : undefined}
               >
                 {company}
